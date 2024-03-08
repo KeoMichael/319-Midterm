@@ -1,0 +1,148 @@
+{
+  "movies": [
+    {
+      "movieId": "1234",
+      "title": "The Avengers",
+      "year": 2012,
+      "url": "./images/avengersMovie.jpg",
+      "genre": "Action",
+      "score": 91,
+      "desc": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+      "cast": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Chris Hemsworth"
+      ],
+      "role": [
+        "Iron Man",
+        "Captain America",
+        "Thor"
+      ],
+      "castPic": [
+        "./images/rdj.jpg",
+        "./images/evans.jpg",
+        "./images/hemsworth.jpg"
+      ]
+    },
+    {
+      "movieId": "A124",
+      "title": "Avatar: The Last Airbender",
+      "year": 2005,
+      "url": "./images/ATLA.jpg",
+      "genre": "Action",
+      "score": 99,
+      "desc": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
+      "cast": [
+        "Zach Tyler Eisen",
+        "Jack De Sena",
+        "Mae Whitman"
+      ],
+      "role": [
+        "Aang",
+        "Sokka",
+        "Katara"
+      ],
+      "castPic": [
+        "./images/zte.jpg",
+        "./images/jackSana.jpg",
+        "./images/mae.jpg"
+      ]
+    },
+    {
+      "movieId": "76788",
+      "title": "The Iron Giant",
+      "year": 1999,
+      "url": "./images/ironGiant.jpg",
+      "genre": "Sci-Fi",
+      "score": 96,
+      "desc": "A young boy befriends a giant robot from outer space that a paranoid government agent wants to destroy.",
+      "cast": [
+        "Vin Diesel",
+        "Eli Marienthal",
+        "Harry Connick Jr."
+      ],
+      "role": [
+        "Iron Giant",
+        "Hogarth Hughes",
+        "Dean McCoppin"
+      ],
+      "castPic": [
+        "./images/vinD.jpg",
+        "./images/eliM.jpg",
+        "./images/connick.jpg"
+      ]
+    },
+    {
+      "movieId": "BB124",
+      "title": "Mulan",
+      "year": 1998,
+      "url": "./images/mulan.png",
+      "genre": "Adventure",
+      "score": 86,
+      "desc": "To save her father from death in the army, a young maiden secretly goes in his place and becomes one of China's greatest heroines in the process.",
+      "cast": [
+        "Ming-Na Wen",
+        "Eddie Murphy",
+        "BD Wong"
+      ],
+      "role": [
+        "Mulan",
+        "Mushu",
+        "Li Shang"
+      ],
+      "castPic": [
+        "./images/ming.jpg",
+        "./images/murphy.jpg",
+        "./images/bdwong.jpg"
+      ]
+    },
+    {
+      "movieId": "12345",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "year": 2001,
+      "url": "./images/hp.jpg",
+      "genre": "Fantasy",
+      "score": 81,
+      "desc": "An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world.",
+      "cast": [
+        "Daniel Radcliffe",
+        "Emma Watson",
+        "Rupert Grint"
+      ],
+      "role": [
+        "Harry Potter",
+        "Hermione Granger",
+        "Ron Weasley"
+      ],
+      "castPic": [
+        "./images/danielRad.jpg",
+        "./images/emmaWat.jpg",
+        "./images/rupert.jpg"
+      ]
+    },
+    {
+      "movieId": "9931",
+      "title": "Inception",
+      "year": 2010,
+      "url": "./images/inception.jpg",
+      "genre": "Action",
+      "score": 87,
+      "desc": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+      "cast": [
+        "Leonardo DiCaprio",
+        "Joseph Gordon-Levitt",
+        "Elliot Page"
+      ],
+      "role": [
+        "Cobb",
+        "Arthur",
+        "Ariadne"
+      ],
+      "castPic": [
+        "./images/leo.jpg",
+        "./images/joe.jpg",
+        "./images/elliot.jpg"
+      ]
+    }
+  ]
+}
